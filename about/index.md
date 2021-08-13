@@ -1,10 +1,16 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: Обо мне
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: Обо мне
   order: 3
 ---
 
-I am a person that writes stuff.
+Меня зовут Анфимов Дмитрий.
+
+Я интересуюсь Web-технологиями и немножко пишу на Python.
+
+По всем вопросам можно написать сюда:
+- [Telegram](https://t.me/anfimov_work)
+- [E-mail](mailto:lovesolaristics@gmail.com)
